@@ -1,0 +1,24 @@
+.header_aera .navbar-header .navbar-brand img {
+    width: 100%;
+    width: 300px;
+    margin: -17px;
+}
+
+.header_aera .navbar-header .navbar-brand img {
+    max-width: none!important;
+}
+
+.header_aera .navbar-collapse .navbar-nav.navbar-right li .nav_searchFrom {
+    background: #bb1d2b
+}
+.our_partners_area .book_now_aera .book_now .book_bottun a {
+    background: #fff;
+    border-radius: 0px!important;
+    color: #25D366;
+}
+.our_partners_area .book_now_aera {
+    background: #25D366;
+}
+.our_partners_area .book_now_aera .book_now .booking_text p {
+    color: #fff;
+}
