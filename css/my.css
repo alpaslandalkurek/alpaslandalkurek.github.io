@@ -22,3 +22,12 @@
 .our_partners_area .book_now_aera .book_now .booking_text p {
     color: #fff;
 }
+.our_partners_area .partners .item img {
+    max-width: 100%;
+}
+
+.copyright_area {
+    line-height: 25px !important;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
